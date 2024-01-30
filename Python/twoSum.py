@@ -16,3 +16,5 @@ nums=[3,3]
 target=6
 
 print(Solution().twoSum(nums,target))
+
+# Link For Exercise Description : https://leetcode.com/problems/two-sum/description/
